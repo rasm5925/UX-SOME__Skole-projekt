@@ -78,9 +78,7 @@ main {}
     text-align: center;
 }
 
-#venstre-dato-pil {
-    margin-left: 30px;
-}
+
 
 #flex-contanier {
     display: flex;
@@ -89,12 +87,14 @@ main {}
     margin-right: auto;
     text-align: center;
     margin-bottom: 25px;
+    justify-content: center;
 }
 
 .tidspunk-flex {
     display: flex;
-    padding-left: 27px;
+   
     padding-bottom: 15px;
+    justify-content: center;
 }
 
 .tidspunkt-p {
@@ -106,6 +106,7 @@ main {}
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
+    display: block;
 }
 
 .tidspunkt-p-klok {
@@ -114,9 +115,10 @@ main {}
 
 #indtast-nr {
     color: white;
-    padding-left: 37px;
+    
     font-size: 18px;
     margin-top: 10px;
+    text-align: center;
 }
 
 #tast-nr-section {
@@ -127,6 +129,10 @@ main {}
     font-size: 18px;
     padding-left: 20px;
     margin-left: 37px;
+    margin-top: 10px;
+    display: block;
+    align-content: center;
+    margin: 0 auto;
     margin-top: 10px;
 }
 
