@@ -1,13 +1,13 @@
 const getTextBtnElement = document.getElementById("getCurrentTimes");
 
-getTextBtnElement.addEventListener("click", getCurrentTimes);
+getTextBtnElement.addEventListener("click", getTimes);
 
-function getCurrentTimes(){
+function getTimes(){
     fetch('https://api.myjson.com/bins/1dgp04')
     .then((res) => res.json())
     .then((data) => {
-        let output = '<h2 class="display-4 mb-4>bins</h2>';
-        data.forEach(function(user){
+        let output = 'Se Ledige tider';
+        data.forEach(function(bins){
             output+= `
 <ul class="list-group mb-3">
 <li class="list-group-item">Tid: ${bins.Time}</li>
