@@ -6,7 +6,7 @@ function getTimes(){
     fetch('https://api.myjson.com/bins/1dgp04')
     .then((res) => res.json())
     .then((data) => {
-        let output = 'Se Ledige tider';
+        let output = 'Disse tider er tilgængelige';
         data.forEach(function(bins){
             output+= `
 <ul class="list-group mb-3">

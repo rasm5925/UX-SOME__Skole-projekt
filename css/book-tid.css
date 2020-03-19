@@ -155,6 +155,17 @@ main {}
     margin-top: 20px;
 }
 
+#getCurrentTimes {
+    background-color: #367D8D;
+    width: 272px;
+    height: 46px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
 #done-knap {
     color: white;
     font-size: 19px;
@@ -213,6 +224,7 @@ main {}
     text-align: center;
     font-size: 15px;
 }
+
 
 
 /* Footer
