@@ -12,8 +12,6 @@ function getTimes(){
 
 <section class="tidspunk-flex">
     <section class="tidspunkt-p"><p class="tidspunkt-p-klok">${bins.Time}</p></section>
-    <section class="tidspunkt-p"><p class="tidspunkt-p-klok"></p></section>
-    <section class="tidspunkt-p"><p class="tidspunkt-p-klok"></p></section>
     </section>
 
 `;
