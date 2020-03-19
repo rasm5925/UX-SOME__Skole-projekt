@@ -59,12 +59,6 @@ main {}
 
 .container-cirkel-flex {
     display: flex;
-
-}
-
-.mumle-tekst {
-    font-size: 11px;
-    padding-top: 5px;
 }
 
 .kategori {
@@ -76,18 +70,11 @@ main {}
     height: 50px;
 }
 
-
-.kategori-su-1 {}
-
 .transform-active {
     background-color: white;
     border-radius: 10px;
     height: 150px;
     -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    transition: all 0.3s ease;
 }
 
 
@@ -110,11 +97,6 @@ main {}
     margin-left: 55px;
 }
 
-.link-til-sp {
-    text-decoration: none;
-    color: black;
-}
-
 .pil-luk{
     width: 15px;
     margin-top: 15px;
@@ -124,6 +106,231 @@ main {}
 
 
 
+
+.kategori2 {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+.transform2-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.p-su2 {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar2{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede2 {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.pil-luk2{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
+
+
+
+
+.kategori3 {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+.transform3-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.p-su3 {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar3{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede3 {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.pil-luk3{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
+
+
+
+.kategori4 {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+.transform4-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.p-su4 {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar4{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede4 {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.pil-luk4{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
+
+
+
+
+.kategori5 {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+.transform5-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.p-su5 {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar5{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede5 {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.pil-luk5{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
+
+
+
+.kategori6 {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+.transform6-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.p-su6 {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar6{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede6 {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.pil-luk6{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
 
 
 
