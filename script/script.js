@@ -1,4 +1,4 @@
-const getCurrentTimes = document.querySelector("knap");
+const getCurrentTimes = document.querySelector("knap-1");
 
 getCurrentTimes.addEventListener("click", knap);
 
