@@ -1,0 +1,212 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #399FB5;
+
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main {}
+
+/*#overskrift-1{
+    text-align: center;
+    color: white;
+    padding-top: 225px;
+    font-size: 61px;
+}*/
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 60px;
+}
+
+#overskrift-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    width: 100%;
+}
+
+#dato-overskrift {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.dato-pil {
+    width: 25px;
+    height: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
+}
+
+.dato-p {
+    font-size: 35px;
+    color: white;
+    border-bottom: 3px solid white;
+    width: 30px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 6px;
+    margin-right: 6px;
+    text-align: center;
+}
+
+#venstre-dato-pil {
+    margin-left: 30px;
+}
+
+#flex-contanier {
+    display: flex;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.tidspunk-flex {
+    display: flex;
+    padding-left: 27px;
+    padding-bottom: 15px;
+}
+
+.tidspunkt-p {
+    background-color: white;
+    font-size: 25px;
+    width: 86px;
+    height: 57px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.tidspunkt-p-klok {
+    padding-top: 15px;
+}
+
+#indtast-nr {
+    color: white;
+    padding-left: 37px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#tast-nr-section {
+    background-color: white;
+    border: 1px solid black;
+    width: 74%;
+    height: 36px;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-left: 37px;
+    margin-top: 10px;
+}
+
+#tast-nr {}
+
+#done-knap-center {
+    position: relative;
+    text-align: center;
+}
+
+#done-knap-section {
+    background-color: #367D8D;
+    width: 272px;
+    height: 46px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#done-knap {
+    color: white;
+    font-size: 19px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/*#overskrift-2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding-bottom: 82px;
+}*/
+
+
+#logo-baggrund {
+    opacity: 0.2;
+}
+
+#tilbage-pil {
+    color: white;
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.knap {
+    background-color: white;
+    border-radius: 40px;
+    height: 92px;
+    width: 306px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 41px;
+}
+
+.knap-tekst {
+    font-size: 21px;
+    text-align: center;
+    padding-top: 36px;
+
+}
+
+#skole-navn {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+#skole-adresse {
+    text-align: center;
+    font-size: 15px;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/

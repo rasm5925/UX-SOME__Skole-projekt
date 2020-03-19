@@ -1,0 +1,135 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #399FB5;
+
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main {}
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 60px;
+}
+
+#overskrift-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    width: 100%;
+    font-size: 30px;
+}
+
+#logo-baggrund {
+    opacity: 0.2;
+}
+
+#tilbage-pil {
+    color: white;
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.container-cirkel-flex {
+    display: flex;
+
+}
+
+.mumle-tekst {
+    font-size: 11px;
+    padding-top: 5px;
+}
+
+.kategori {
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 50px;
+}
+
+
+.kategori-su-1 {}
+
+.transform-active {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+
+.p-su {
+    margin-top: 15px;
+    margin-left: 12%;
+}
+
+.p-su-svar{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    line-height: 1.5;
+    display: none;
+}
+
+.pil-nede {
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+}
+
+.link-til-sp {
+    text-decoration: none;
+    color: black;
+}
+
+.pil-luk{
+    width: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* Footer
+-----------------------------------------------------------------------------*/

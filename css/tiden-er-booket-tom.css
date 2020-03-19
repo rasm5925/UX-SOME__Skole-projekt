@@ -1,0 +1,114 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #399FB5;
+
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main {}
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 60px;
+}
+
+#overskrift-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    width: 100%;
+    font-size: 42px;
+}
+
+#logo-baggrund {
+    opacity: 0.2;
+}
+
+#tilbage-pil {
+    color: white;
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#main-baggrund{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#main-baggrund-1{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+#bemaerk-p{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 55px;
+}
+
+#ikke-ordre{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#bestilt-tid{
+    font-size: 16px;
+    text-align-last: center;
+    padding-top: 40px;
+    padding-bottom: 45px;
+}
+
+#bestilt-dato{
+    font-size: 14px;
+}
+
+#bestilt-klokkesaet{
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+#bestilt-info{
+    font-size: 13px;
+    padding-top: 35px;
+}
+
+#luk-icon{
+    width: 61px;
+    height: 61px;
+    opacity: 0.5;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+/* Footer
+-----------------------------------------------------------------------------*/

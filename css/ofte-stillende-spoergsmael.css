@@ -1,0 +1,178 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #399FB5;
+
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main {}
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 17px;
+    margin-bottom: 60px;
+}
+
+#overskrift-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    width: 100%;
+    font-size: 30px;
+}
+
+#logo-baggrund {
+    opacity: 0.2;
+}
+
+#tilbage-pil {
+    color: white;
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.total-flex-contanier{
+    display: flex;
+}
+
+.kategori-ansoegning{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.kategori-ansoegning-1{
+    padding: 8px;
+}
+
+.container-cirkel-flex{
+    display: flex;
+}
+
+.p-ansoegning{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.mumle-tekst{
+    font-size: 11px;
+    padding-top: 5px;
+}
+
+.kategori-studiekort{
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+
+.kategori-studiekort-1{
+    padding: 8px;
+}
+
+.p-studiekort{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.kategori-su{
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.kategori-su-1{
+    padding: 8px;
+}
+
+
+.p-su{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.kategori-videre{
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+    width: 70%;
+}
+
+.kategori-videre-1{
+    padding: 8px;
+}
+
+.p-videre{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.kategori-cv{
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 3%;
+    margin-top: 3%;
+    width: 30%;
+}
+
+.kategori-cv-1{
+    padding: 8px;
+}
+
+
+.p-cv{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+
+.link-til-sp{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer
+-----------------------------------------------------------------------------*/

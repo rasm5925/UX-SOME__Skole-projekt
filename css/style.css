@@ -1,0 +1,114 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #399FB5;
+
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main {}
+
+/*#overskrift-1{
+    text-align: center;
+    color: white;
+    padding-top: 225px;
+    font-size: 61px;
+}*/
+
+#container {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 178px;
+    margin-bottom: 60px;
+}
+
+#overskrift-1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 61px;
+}
+
+/*#overskrift-2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding-bottom: 82px;
+}*/
+
+#overskrift-2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+}
+
+#logo-baggrund {
+    opacity: 0.4;
+}
+
+#link-book{
+    text-decoration: none;
+    color: black;
+}
+
+#link-ofte{
+    text-decoration: none;
+    color: black;
+}
+
+.knap {
+    background-color: white;
+    border-radius: 40px;
+    height: 92px;
+    width: 306px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 41px;
+    text-decoration: none;
+}
+
+.knap-tekst {
+    font-size: 21px;
+    text-align: center;
+    padding-top: 36px;
+    text-decoration: none;
+
+}
+
+#skole-navn {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+#skole-adresse {
+    text-align: center;
+    font-size: 15px;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
