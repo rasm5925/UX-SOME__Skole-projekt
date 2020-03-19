@@ -6,12 +6,16 @@ function getTimes(){
     fetch('https://api.myjson.com/bins/1dgp04')
     .then((res) => res.json())
     .then((data) => {
-        let output = 'Tiderne herunder er tilgængelige';
+        let output = '';
         data.forEach(function(bins){
             output+= `
-<ul class="list-group mb-3">
-<li class="list-group-item">Kl: ${bins.Time}</li>
-</ul>
+
+<section class="tidspunk-flex">
+    <section class="tidspunkt-p"><p class="tidspunkt-p-klok">${bins.Time}</p></section>
+    <section class="tidspunkt-p"><p class="tidspunkt-p-klok"></p></section>
+    <section class="tidspunkt-p"><p class="tidspunkt-p-klok"></p></section>
+    </section>
+
 `;
         })
         document.getElementById("output").innerHTML = output;
