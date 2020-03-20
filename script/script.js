@@ -76,3 +76,47 @@ datoen19.addEventListener("click", function(){
 });
 
 
+let clickareal = document.getElementById("wrapper");
+
+let tidspunktbox = document.querySelector(".tidspunkt-p")
+
+
+clickareal.addEventListener("click", function(e){
+    let valgtsted = e.target;
+    let test1 = 1
+    if(test1 == 1){
+        console.log("Dette er en test")
+        valgtsted.style.backgroundColor="red";
+    }
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
