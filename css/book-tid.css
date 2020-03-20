@@ -78,6 +78,10 @@ main {}
     text-align: center;
 }
 
+/*.dato-p-test{
+    background-color:rgba(255,255,255,0.2);
+}*/
+
 
 
 #flex-contanier {
@@ -92,9 +96,9 @@ main {}
 
 .tidspunk-flex {
     display: flex;
-   
     padding-bottom: 15px;
     justify-content: center;
+    flex-direction: row;
 }
 
 .tidspunkt-p {
@@ -109,13 +113,19 @@ main {}
     display: block;
 }
 
+#output {
+    display: flex;
+    padding: 2%;
+    flex-wrap: wrap;
+    padding: 4% 0% 0% 8%;
+}
+
 .tidspunkt-p-klok {
     padding-top: 15px;
 }
 
 #indtast-nr {
     color: white;
-    
     font-size: 18px;
     margin-top: 10px;
     text-align: center;
@@ -153,6 +163,7 @@ main {}
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
+    margin-bottom: 6%;
 }
 
 #getCurrentTimes {
@@ -224,6 +235,18 @@ main {}
     text-align: center;
     font-size: 15px;
 }
+
+.tidspunkt-p:active {
+    outline: white auto 5px;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.tidspunkt-p:hover {
+    outline: white auto 5px;
+    background-color: rgba(255,255,255,0.2);
+}
+
+
 
 
 
