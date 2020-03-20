@@ -236,6 +236,18 @@ main {}
     font-size: 15px;
 }
 
+.tidspunkt-p:active {
+    outline: white auto 5px;
+    background-color: darkslategrey;
+}
+
+.tidspunkt-p:hover {
+    outline: white auto 5px;
+    background-color: darkslategrey;
+}
+
+
+
 
 
 /* Footer
