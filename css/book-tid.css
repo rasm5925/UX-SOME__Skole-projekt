@@ -238,12 +238,12 @@ main {}
 
 .tidspunkt-p:active {
     outline: white auto 5px;
-    background-color: darkslategrey;
+    background-color: rgba(255,255,255,0.2);
 }
 
 .tidspunkt-p:hover {
     outline: white auto 5px;
-    background-color: darkslategrey;
+    background-color: rgba(255,255,255,0.2);
 }
 
 
