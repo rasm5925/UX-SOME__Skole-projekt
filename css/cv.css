@@ -97,6 +97,7 @@ main {}
     height: 15px;
     margin-top: 15px;
     margin-left: 55px;
+    margin-right: 20px;
 }
 
 .pil-luk{
@@ -104,6 +105,7 @@ main {}
     height: 15px;
     margin-top: 15px;
     margin-left: 55px;
+    margin-right: 20px;
     display: none;
 }
 
@@ -145,14 +147,14 @@ main {}
     width: 15px;
     height: 15px;
     margin-top: 15px;
-    margin-left: 55px;
+    margin-left: 105px;
 }
 
 .pil-luk2{
     width: 15px;
     height: 15px;
     margin-top: 15px;
-    margin-left: 55px;
+    margin-left: 105px;
     display: none;
 }
 
@@ -195,6 +197,7 @@ main {}
     height: 15px;
     margin-top: 15px;
     margin-left: 55px;
+    margin-right: 20px;
 }
 
 .pil-luk3{
@@ -202,6 +205,7 @@ main {}
     height: 15px;
     margin-top: 15px;
     margin-left: 55px;
+    margin-right: 20px;
     display: none;
 }
 

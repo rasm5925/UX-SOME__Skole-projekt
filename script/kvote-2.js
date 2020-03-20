@@ -15,7 +15,7 @@ knap1.addEventListener("click", function(){
     if(test == 1){
         knap1.style.display="none";
         lukkeknap1.style.display="block";
-        mellemrum12.style.marginTop="30%";
+        mellemrum12.style.marginTop="101%";
         svarnr1.style.display="block";
     }
 });
