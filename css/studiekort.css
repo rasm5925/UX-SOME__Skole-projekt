@@ -73,8 +73,9 @@ main {}
 .transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
 
 
@@ -118,13 +119,13 @@ main {}
     height: 50px;
 }
 
-.transform2-active {
+.transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
-
 
 .p-su2 {
     margin-top: 15px;
@@ -166,11 +167,12 @@ main {}
     height: 50px;
 }
 
-.transform3-active {
+.transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
 
 
@@ -213,11 +215,12 @@ main {}
     height: 50px;
 }
 
-.transform4-active {
+.transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
 
 
@@ -261,11 +264,12 @@ main {}
     height: 50px;
 }
 
-.transform5-active {
+.transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
 
 
@@ -308,13 +312,13 @@ main {}
     height: 50px;
 }
 
-.transform6-active {
+.transform-active {
     background-color: white;
     border-radius: 10px;
-    height: 150px;
+    height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
-
 
 .p-su6 {
     margin-top: 15px;

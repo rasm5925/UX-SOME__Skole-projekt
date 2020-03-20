@@ -75,6 +75,7 @@ main {}
     border-radius: 10px;
     height: auto;
     -webkit-transition: all 0.3s ease;
+    padding-bottom: 30px;
 }
 
 
