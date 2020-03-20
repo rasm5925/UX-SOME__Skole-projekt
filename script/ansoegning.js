@@ -15,7 +15,7 @@ knap1.addEventListener("click", function(){
     if(test == 1){
         knap1.style.display="none";
         lukkeknap1.style.display="block";
-        mellemrum12.style.marginTop="30%";
+        mellemrum12.style.marginTop="37%";
         svarnr1.style.display="block";
     }
 });
@@ -47,7 +47,7 @@ knap2.addEventListener("click", function(){
     if(test == 1){
         knap2.style.display="none";
         lukkeknap2.style.display="block";
-        mellemrum23.style.marginTop="30%";
+        mellemrum23.style.marginTop="73%";
         svarnr2.style.display="block";
         
     }
@@ -79,7 +79,7 @@ knap3.addEventListener("click", function(){
     if(test == 1){
         knap3.style.display="none";
         lukkeknap3.style.display="block";
-        mellemrum34.style.marginTop="30%";
+        mellemrum34.style.marginTop="60%";
         svarnr3.style.display="block";
         
     }
@@ -113,7 +113,7 @@ knap4.addEventListener("click", function(){
     if(test == 1){
         knap4.style.display="none";
         lukkeknap4.style.display="block";
-        mellemrum45.style.marginTop="30%";
+        mellemrum45.style.marginTop="56%";
         svarnr4.style.display="block";
         
     }
@@ -147,7 +147,7 @@ knap5.addEventListener("click", function(){
     if(test == 1){
         knap5.style.display="none";
         lukkeknap5.style.display="block";
-        mellemrum56.style.marginTop="30%";
+        mellemrum56.style.marginTop="60%";
         svarnr5.style.display="block";
         
     }
